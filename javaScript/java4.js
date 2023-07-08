@@ -1,4 +1,4 @@
-let array=['zain','abid','rehman','umar','baber']
+let array=['zain','abid','kashif','umar','baber']
 
 console.log(array)
 
